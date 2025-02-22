@@ -1,0 +1,1752 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-22 17:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main.cpp:730 main.cpp:733
+msgid "New Tab"
+msgstr "Neue Registerkarte"
+
+#: main.cpp:747 main.cpp:1960
+msgid "New Game"
+msgstr "Neues Spiel"
+
+#: main.cpp:1872
+msgid "New\tCtrl+N"
+msgstr "Neu\tStrg+N"
+
+#: main.cpp:1872
+msgid "Start afresh with a new .pgn file with no games"
+msgstr "Beginnen Sie neu mit einer neuen PNG-Datei ohne Spiele"
+
+#: main.cpp:1873
+msgid "Open\tCtrl+O"
+msgstr "Öffnen\tStrg+O"
+
+#: main.cpp:1873
+msgid "Open an existing .pgn file"
+msgstr "Öffnen Sie eine vorhandene PNG-Datei"
+
+#: main.cpp:1876
+msgid "Open Recent"
+msgstr "Zuletzt geöffnet"
+
+#: main.cpp:1877
+msgid "Clear recent file list"
+msgstr "Liste der zuletzt verwendeten Dateien löschen"
+
+#: main.cpp:1877
+msgid "Clear the recent file list"
+msgstr "Löschen der Liste der zuletzt verwendeten Dateien"
+
+#: main.cpp:1881
+msgid "Open log file"
+msgstr "Logdatei öffnen"
+
+#: main.cpp:1881
+msgid "Open the file in which Tarrasch logs games"
+msgstr "Öffnen Sie die Datei, in der Tarrasch Spiele protokolliert"
+
+#: main.cpp:1882
+msgid "Save\tCtrl+S"
+msgstr "Speichern\tStrg+S"
+
+#: main.cpp:1882
+msgid "Save the current .pgn file"
+msgstr "Speichern Sie die aktuelle PNG-Datei"
+
+#: main.cpp:1883
+msgid "Save as"
+msgstr "Speichern unter"
+
+#: main.cpp:1883
+msgid "Save the current .pgn file with a different name"
+msgstr "Speichern Sie die aktuelle .pgn-Datei unter einem anderen Namen"
+
+#: main.cpp:1884
+msgid "Save game as"
+msgstr "Spiel speichern unter"
+
+#: main.cpp:1884
+msgid "Save the current game to a new or existing .pgn file"
+msgstr "Speichern Sie das aktuelle Spiel in einer neuen oder vorhandenen PNG-Datei"
+
+#: main.cpp:1888
+msgid "New tab\tCtrl+T"
+msgstr "Neuer Tab\tStrg+T"
+
+#: main.cpp:1889
+msgid "Close tab\tCtrl+D"
+msgstr "Tab schließen\tStrg+D"
+
+#: main.cpp:1891
+msgid "Close all tabs"
+msgstr "Alle Tabs schließen"
+
+#: main.cpp:1891
+msgid "Close all open tabs, except the first one"
+msgstr "Schließen Sie alle geöffneten Tabs außer dem ersten"
+
+#: main.cpp:1893
+msgid "Add tab to file"
+msgstr "Registerkarte zur Datei hinzufügen"
+
+#: main.cpp:1893
+msgid "Add this game to the current file"
+msgstr "Dieses Spiel zur aktuellen Datei hinzufügen"
+
+#: main.cpp:1899
+msgid "Print.."
+msgstr "Drucken.."
+
+#: main.cpp:1899
+msgid "Print game functions"
+msgstr "Spielfunktionen drucken"
+
+#: main.cpp:1903
+msgid "Print game.."
+msgstr "Spiel drucken.."
+
+#: main.cpp:1903
+msgid "Print preview for the current game"
+msgstr "Druckvorschau für das aktuelle Spiel"
+
+#: main.cpp:1907
+msgid "Print options.."
+msgstr "Druckoptionen.."
+
+#: main.cpp:1907
+msgid "Set options for printing"
+msgstr "Festlegen von Optionen zum Drucken"
+
+#: main.cpp:1911
+msgid "E&xit\tAlt-X"
+msgstr "Beenden\tAlt-X"
+
+#: main.cpp:1915
+msgid "Copy\tCtrl+C"
+msgstr "Kopieren\tStrg+C"
+
+#: main.cpp:1916
+msgid "Cut\tCtrl+X"
+msgstr "Ausschneiden\tStrg+X"
+
+#: main.cpp:1917
+msgid "Paste\tCtrl+V"
+msgstr "Einfügen\tStrg+V"
+
+#: main.cpp:1918
+msgid "Undo\tCtrl+Z"
+msgstr "Rückgängig\tStrg+Z"
+
+#: main.cpp:1919
+msgid "Redo\tCtrl+Y"
+msgstr "Wiederholen\tStrg+Y"
+
+#: main.cpp:1920
+msgid "Delete comment text or remainder of variation\tDel"
+msgstr "Kommentartext oder Rest der Variante löschen\tEntf"
+
+#: main.cpp:1920
+msgid "Delete selection or rest of variation"
+msgstr "Auswahl oder Rest der Variante löschen"
+
+#: main.cpp:1921
+msgid "Edit game details"
+msgstr "Spieldetails bearbeiten"
+
+#: main.cpp:1921
+msgid "Modify player names, tournament names, or other details"
+msgstr "Spielernamen, Turniernamen oder andere Details ändern"
+
+#: main.cpp:1923
+msgid "Copy game to system clipboard (PGN)"
+msgstr "Spiel in die Systemzwischenablage kopieren (PGN)"
+
+#: main.cpp:1924
+msgid "Copy position to system clipboard (FEN)"
+msgstr "Position in die Systemzwischenablage kopieren (FEN)"
+
+#: main.cpp:1925
+msgid "Delete variation"
+msgstr "Variante löschen"
+
+#: main.cpp:1925
+msgid "Delete the whole variation"
+msgstr "Löschen Sie die gesamte Variante"
+
+#: main.cpp:1926
+msgid "Promote variation"
+msgstr "Abwechslung fördern"
+
+#: main.cpp:1926
+msgid "The current variation is elevated higher in the hierarchy of variations"
+msgstr "Die aktuelle Variante wird in der Variationshierarchie höher eingestuft."
+
+#: main.cpp:1927
+msgid "Demote variation"
+msgstr "Variante herabstufen"
+
+#: main.cpp:1927
+msgid "The current variation is lowered in the hierarchy of variations"
+msgstr "Die aktuelle Variante wird in der Variationshierarchie nach unten verschoben."
+
+#: main.cpp:1928
+msgid "Demote rest of variation to comment\tAlt-D"
+msgstr "Rest der Variante zum Kommentar herabstufen\tAlt-D"
+
+#: main.cpp:1928
+msgid "Convert moves to plain text which can be edited"
+msgstr "Wandeln Sie Züge in einfachen Text um, der bearbeitet werden kann"
+
+#: main.cpp:1929
+msgid "Promote comment to moves"
+msgstr "Kommentare zu Moves befördern"
+
+#: main.cpp:1929
+msgid "Convert plain text to live moves"
+msgstr "Wandeln Sie Klartext in Live-Moves um"
+
+#: main.cpp:1930
+msgid "Promote rest of comment to moves\tAlt-P"
+msgstr "Rest des Kommentars zu Moves hochstufen\tAlt-P"
+
+#: main.cpp:1930
+msgid "Convert plain text (from cursor to end of comment) to live moves"
+msgstr "Konvertieren Sie einfachen Text (vom Cursor bis zum Ende des Kommentars) in Live-Moves"
+
+#: main.cpp:1932
+msgid "Delete comments"
+msgstr "Kommentare löschen"
+
+#: main.cpp:1932
+msgid "Delete all comments to the game"
+msgstr "Alle Kommentare zum Spiel löschen"
+
+#: main.cpp:1933
+msgid "Delete sub-vars"
+msgstr "Untergeordnete Variablen löschen"
+
+#: main.cpp:1933
+msgid "Delete all sub-variations to the game"
+msgstr "Alle Untervarianten des Spiels löschen"
+
+#: main.cpp:1934
+msgid "Delete NAGs"
+msgstr "NAGs löschen"
+
+#: main.cpp:1934
+msgid "Delete all NAGs (Numeric Annotation Glyphs) to the game"
+msgstr "Lösche alle NAGs (Numeric Annotation Glyphs) zum Spiel"
+
+#: main.cpp:1935
+msgid "Delete all"
+msgstr "Alle löschen"
+
+#: main.cpp:1935
+msgid "Delete all comments,sub-variations and NAGs to the game"
+msgstr "Lösche alle Kommentare, Untervarianten und NAGs zum Spiel"
+
+#: main.cpp:1939
+msgid "Current file\tCtrl+L"
+msgstr "Aktuelle Datei\tStrg+L"
+
+#: main.cpp:1939
+msgid "Show the current file as a list of games"
+msgstr "Aktuelle Datei als Spieleliste anzeigen"
+
+#: main.cpp:1940 main.cpp:2073 main.cpp:2326
+msgid "Database"
+msgstr "Datenbank"
+
+#: main.cpp:1940
+msgid "Do a database search, revealing a list of found games"
+msgstr "Führen Sie eine Datenbanksuche durch, die eine Liste der gefundenen Spiele anzeigt"
+
+#: main.cpp:1941 main.cpp:3962
+msgid "Session"
+msgstr "Sitzung"
+
+#: main.cpp:1941
+msgid "Show activity in this session as a list of games"
+msgstr "Aktivität in dieser Sitzung als Liste von Spielen anzeigen"
+
+#: main.cpp:1942 main.cpp:3970
+msgid "Clipboard"
+msgstr "Zwischenablage"
+
+#: main.cpp:1942
+msgid "Show the copied games as a list of games"
+msgstr "Kopierte Spiele als Spieleliste anzeigen"
+
+#: main.cpp:1944 main.cpp:2348
+msgid "Previous game from file"
+msgstr "Vorheriges Spiel aus Datei"
+
+#: main.cpp:1945 main.cpp:2349
+msgid "Next game from file"
+msgstr "Nächstes Spiel aus Datei"
+
+#: main.cpp:1948
+msgid "Auto-replay\tF9"
+msgstr "Automatische Wiedergabe\tF9"
+
+#: main.cpp:1948
+msgid "Start / stop automatic replay of loaded game"
+msgstr "Automatische Wiedergabe des geladenen Spiels starten/stoppen"
+
+#: main.cpp:1949
+msgid "Auto-replay options"
+msgstr "Optionen für die automatische Wiedergabe"
+
+#: main.cpp:1949
+msgid "Open the automatic replay dialog box"
+msgstr "Öffnen des Dialogfelds zur automatischen Wiedergabe"
+
+#: main.cpp:1954
+msgid "Free internet chess server.."
+msgstr "Kostenloser Internet-Schachserver."
+
+#: main.cpp:1954
+msgid "Play on the Fics server"
+msgstr "Spielen Sie auf dem Fics-Server"
+
+#: main.cpp:1960
+msgid "Start a new game, but leave existing .pgn file open"
+msgstr "Starten Sie ein neues Spiel, aber lassen Sie die vorhandene PNG-Datei geöffnet"
+
+#: main.cpp:1961
+msgid "Flip board\tCtrl+F"
+msgstr "Brett umdrehen\tStrg+F"
+
+#: main.cpp:1961
+msgid ""
+"Reverse the current orientation, applies to Setup position and Games menu "
+"boards as well"
+msgstr "Kehrt die aktuelle Ausrichtung um, gilt auch für Setup-Position und Spiele-Menütafeln"
+
+#: main.cpp:1962
+msgid "Take back\tCtrl+B"
+msgstr "Zurücknehmen\tStrg+B"
+
+#: main.cpp:1963
+msgid "Set position\tCtrl+P"
+msgstr "Position festlegen\tStrg+P"
+
+#: main.cpp:1963
+msgid "Setup a new position"
+msgstr "Eine neue Position einrichten"
+
+#: main.cpp:1964
+msgid "Start kibitzer\tCtrl+K"
+msgstr "Kibitzer starten\tStrg+K"
+
+#: main.cpp:1964
+msgid "Turn computer analysis on or off"
+msgstr "Computeranalyse ein- oder ausschalten"
+
+#: main.cpp:1971
+msgid "Draw"
+msgstr "Ziehen"
+
+#: main.cpp:1971
+msgid "Indicate game result, or claim draw when playing against engine"
+msgstr "Spielergebnis angeben oder Unentschieden beanspruchen, wenn gegen die Engine gespielt wird"
+
+#: main.cpp:1972
+msgid "White resigns"
+msgstr "Weiß tritt zurück"
+
+#: main.cpp:1972
+msgid "Indicate game result, or concede when playing White against engine"
+msgstr "Spielergebnis anzeigen oder aufgeben, wenn Weiß gegen Engine spielt"
+
+#: main.cpp:1973
+msgid "Black resigns"
+msgstr "Schwarz gibt auf"
+
+#: main.cpp:1973
+msgid "Indicate game result, or concede when playing Black against engine"
+msgstr "Spielergebnis anzeigen oder aufgeben, wenn Schwarz gegen Engine spielt"
+
+#: main.cpp:1974
+msgid "Play white"
+msgstr "Weiß spielen"
+
+#: main.cpp:1974
+msgid "Play White against engine, starting from current position"
+msgstr "Spielen Sie Weiß gegen die Engine, beginnend von der aktuellen Position"
+
+#: main.cpp:1975
+msgid "Play black"
+msgstr "Spiel Schwarz"
+
+#: main.cpp:1975
+msgid "Play Black against engine, starting from current position"
+msgstr "Spielen Sie Schwarz gegen die Engine, beginnend von der aktuellen Position"
+
+#: main.cpp:1976
+msgid "Shootout"
+msgstr "Schießerei"
+
+#: main.cpp:1976
+msgid "Computer engine plays against itself"
+msgstr "Computer-Engine spielt gegen sich selbst"
+
+#: main.cpp:1977
+msgid "Swap sides\tAlt-S"
+msgstr "Seiten wechseln\tAlt-S"
+
+#: main.cpp:1977
+msgid "Reverse roles in game against engine"
+msgstr "Rollentausch im Spiel gegen die Engine"
+
+#: main.cpp:1978
+msgid "Move now\tAlt-M"
+msgstr "Jetzt bewegen\tAlt-M"
+
+#: main.cpp:1978
+msgid "Force engine to move"
+msgstr "Motor zum Bewegen zwingen"
+
+#: main.cpp:1985
+msgid "General.."
+msgstr "Allgemein.."
+
+#: main.cpp:1985
+msgid "Miscellaneous options"
+msgstr "Verschiedene Optionen"
+
+#: main.cpp:1986
+msgid "Colours.."
+msgstr "Farben.."
+
+#: main.cpp:1986
+msgid "Colour options"
+msgstr "Farboptionen"
+
+#: main.cpp:1987
+msgid "Player names.."
+msgstr "Spielernamen.."
+
+#: main.cpp:1987
+msgid "Label the board with player names (also available by clicking on name)"
+msgstr "Beschriften Sie das Brett mit den Namen der Spieler (auch durch Klicken auf den Namen verfügbar)"
+
+#: main.cpp:1988
+msgid "Clocks.."
+msgstr "Uhren.."
+
+#: main.cpp:1988
+msgid "Control all aspects of the on-screen game timer"
+msgstr "Kontrollieren Sie alle Aspekte des Spieltimers auf dem Bildschirm"
+
+#: main.cpp:1989
+msgid "Log file.."
+msgstr "Protokolldatei.."
+
+#: main.cpp:1989
+msgid "Setup a file to automatically log all games"
+msgstr "Richten Sie eine Datei ein, um alle Spiele automatisch zu protokollieren"
+
+#: main.cpp:1991
+msgid "Training.."
+msgstr "Ausbildung.."
+
+#: main.cpp:1991
+msgid "Control some simple training modes to improve visualization skills"
+msgstr "Steuern Sie einige einfache Trainingsmodi, um die Visualisierungsfähigkeiten zu verbessern"
+
+#: main.cpp:1993
+msgid "Puzzle mode.."
+msgstr "Puzzle-Modus.."
+
+#: main.cpp:1993
+msgid "Set puzzle mode options"
+msgstr "Optionen für den Puzzle-Modus festlegen"
+
+#: main.cpp:1994
+msgid "Piece sets.."
+msgstr "Teilige Sätze.."
+
+#: main.cpp:1994
+msgid "Select the piece set for the 2d screen"
+msgstr "Wählen Sie den Teilesatz für den 2D-Bildschirm"
+
+#: main.cpp:1995
+msgid "Board bitmaps.."
+msgstr "Bitmaps der Platine.."
+
+#: main.cpp:1995
+msgid "Set user defined board bitmaps"
+msgstr "Festlegen benutzerdefinierter Board-Bitmaps"
+
+#: main.cpp:1996
+msgid "Piece animation.."
+msgstr "Stückanimation.."
+
+#: main.cpp:1996
+msgid "Select the options for piece animation"
+msgstr "Wählen Sie die Optionen für die Stückanimation"
+
+#: main.cpp:1997
+msgid "Sound effects options.."
+msgstr "Optionen für Soundeffekte.."
+
+#: main.cpp:1997
+msgid "Select the options for sound effects"
+msgstr "Wählen Sie die Optionen für Soundeffekte"
+
+#: main.cpp:1998
+msgid "Score counter.."
+msgstr "Punktezähler."
+
+#: main.cpp:1998
+msgid "Open score counter window"
+msgstr "Punktezähler-Fenster öffnen"
+
+#: main.cpp:2000
+msgid "Reset to factory defaults"
+msgstr "Auf Werkseinstellungen zurücksetzen"
+
+#: main.cpp:2000
+msgid "Reset all options to their original values"
+msgstr "Setzt alle Optionen auf ihre ursprünglichen Werte zurück"
+
+#: main.cpp:2007
+msgid "Engine.."
+msgstr "Motor.."
+
+#: main.cpp:2007
+msgid "Specify the UCI engine to use, along with Engine options"
+msgstr "Geben Sie die zu verwendende UCI-Engine zusammen mit den Engine-Optionen an."
+
+#: main.cpp:2008
+msgid "Engine match.."
+msgstr "Motorübereinstimmung.."
+
+#: main.cpp:2008
+msgid "Set the options for an engine match"
+msgstr "Festlegen der Optionen für eine Engineübereinstimmung"
+
+#: main.cpp:2009
+msgid "Engine tournament.."
+msgstr "Motorenturnier.."
+
+#: main.cpp:2009
+msgid "Set the options for an engine tournament"
+msgstr "Legen Sie die Optionen für ein Engine-Turnier fest"
+
+#: main.cpp:2010
+msgid "Engine adjustment.."
+msgstr "Motoreinstellung.."
+
+#: main.cpp:2010
+msgid "Set the options for engine adjustment"
+msgstr "Einstellen der Optionen für die Motoranpassung"
+
+#: main.cpp:2011
+msgid "Kibitz options.."
+msgstr "Kibitz-Optionen.."
+
+#: main.cpp:2011
+msgid "Set the kibitz options"
+msgstr "Festlegen der Kibitz-Optionen"
+
+#: main.cpp:2012
+msgid "Analyse game.."
+msgstr "Spiel analysieren.."
+
+#: main.cpp:2012
+msgid "Analyse the current game"
+msgstr "Analysieren Sie das aktuelle Spiel"
+
+#: main.cpp:2013
+msgid "Search info.."
+msgstr "Suchinformationen.."
+
+#: main.cpp:2013
+msgid "Set engine search info options"
+msgstr "Festlegen der Infooptionen für die Suchmaschinensuche"
+
+#: main.cpp:2014
+msgid "Evaluation bar.."
+msgstr "Bewertungsleiste.."
+
+#: main.cpp:2014
+msgid "Show evaluation bar options dialog box"
+msgstr "Dialogfeld „Optionen für Auswertungsleiste anzeigen“"
+
+#: main.cpp:2015
+msgid "Evaluation profile.."
+msgstr "Bewertungsprofil.."
+
+#: main.cpp:2015
+msgid "Show evaluation profile options dialog box"
+msgstr "Dialogfeld „Evaluierungsprofiloptionen anzeigen“"
+
+#: main.cpp:2020
+msgid "Position search"
+msgstr "Positionssuche"
+
+#: main.cpp:2020
+msgid "Search the database for the current position"
+msgstr "Suche in der Datenbank nach der aktuellen Position"
+
+#: main.cpp:2021
+msgid "Pattern search"
+msgstr "Mustersuche"
+
+#: main.cpp:2021
+msgid ""
+"Search the database for situations where a group of pieces are at specific "
+"locations"
+msgstr "Durchsuchen Sie die Datenbank nach Situationen, in denen sich eine Gruppe von Teilen an bestimmten
+Standorten befindet"
+
+#: main.cpp:2022
+msgid "Material balance search"
+msgstr "Materialbilanzsuche"
+
+#: main.cpp:2022
+msgid ""
+"Search the database for a specific material balance, with optional locked "
+"down squares"
+msgstr "Durchsuchen Sie die Datenbank nach einer bestimmten Materialbilanz, mit optionalen gesperrten Feldern"
+
+#: main.cpp:2023
+msgid "Show all games"
+msgstr "Alle Spiele anzeigen"
+
+#: main.cpp:2023
+msgid ""
+"Show all database games - equivalent to searching for the standard starting "
+"position"
+msgstr "Alle Datenbankpartien anzeigen - entspricht der Suche nach der Standard-Startposition"
+
+#: main.cpp:2024
+msgid "Show all ordered by player"
+msgstr "Alle nach Spieler sortiert anzeigen"
+
+#: main.cpp:2024
+msgid ""
+"Show all games ordered by White player, useful for searching for players"
+msgstr ""
+
+#: main.cpp:2025
+msgid "Select current database"
+msgstr "Aktuelle Datenbank auswählen"
+
+#: main.cpp:2025
+msgid "Specify which database file to use for searches"
+msgstr "Geben Sie an, welche Datenbankdatei für die Suche verwendet werden soll"
+
+#: main.cpp:2026
+msgid "Create new database"
+msgstr "Neue Datenbank erstellen"
+
+#: main.cpp:2026
+msgid "Create a new database file from scratch"
+msgstr "Erstellen Sie eine neue Datenbankdatei von Grund auf"
+
+#: main.cpp:2027
+msgid "Append to database"
+msgstr "An Datenbank anhängen"
+
+#: main.cpp:2027
+msgid "Append games to an existing database"
+msgstr "Spiele an eine bestehende Datenbank anhängen"
+
+#: main.cpp:2034
+msgid "Opening book..\tAlt+B"
+msgstr "Eröffnungsbuch..\tAlt+B"
+
+#: main.cpp:2034
+msgid "Control a simple .pgn based opening book facility"
+msgstr "Steuern Sie eine einfache .pgn-basierte Eröffnungsbuchfunktion"
+
+#: main.cpp:2036
+msgid "Polyglot book..\tAlt+G"
+msgstr "Polyglottes Buch..\tAlt+G"
+
+#: main.cpp:2036
+msgid "Control a Polyglot .bin based opening book facility"
+msgstr "Steuern Sie eine auf Polyglot .bin basierende Eröffnungsbuchfunktion"
+
+#: main.cpp:2037
+msgid "Book weights.. \tAlt+W"
+msgstr "Buchgewichte.. \tAlt+W"
+
+#: main.cpp:2037
+msgid "Display Polyglot .bin book weights dialog box"
+msgstr "Dialogfeld „Polyglot .bin-Buchgewichte anzeigen“"
+
+#: main.cpp:2042
+msgid "2d display"
+msgstr "2D-Anzeige"
+
+#: main.cpp:2042
+msgid "Two dimensional graphics display"
+msgstr "Zweidimensionale Grafikanzeige"
+
+#: main.cpp:2043
+msgid "3d display"
+msgstr "3D-Anzeige"
+
+#: main.cpp:2043
+msgid "Three dimensional graphics display"
+msgstr "Dreidimensionale Grafikanzeige"
+
+#: main.cpp:2053
+msgid "Open Media Player.."
+msgstr "Öffnen Sie den Media Player."
+
+#: main.cpp:2053
+msgid "Open the Media Player video window"
+msgstr "Öffnen Sie das Media Player-Videofenster"
+
+#: main.cpp:2058
+msgid "About"
+msgstr "Um"
+
+#: main.cpp:2058
+msgid "Version and publisher information"
+msgstr "Versions- und Herausgeberinformationen"
+
+#: main.cpp:2059 main.cpp:2077 main.cpp:2400 main.cpp:2663 main.cpp:2973
+msgid "Help"
+msgstr "Helfen"
+
+#: main.cpp:2059
+msgid "An overview of the program"
+msgstr "Das Programm im Überblick"
+
+#: main.cpp:2060 main.cpp:3184
+msgid "Credits"
+msgstr "Credits"
+
+#: main.cpp:2060
+msgid "Thank you to numerous people"
+msgstr "Vielen Dank an zahlreiche Menschen"
+
+#: main.cpp:2061
+msgid "Open help file\tF1"
+msgstr "Hilfedatei öffnen\tF1"
+
+#: main.cpp:2061
+msgid "Opens the Nimzo_3d.chm help file"
+msgstr "Öffnet die Hilfedatei Nimzo_3d.chm"
+
+#: main.cpp:2062
+msgid "Help file delay.."
+msgstr "Verzögerung der Hilfedatei.."
+
+#: main.cpp:2062
+msgid "Opens help file delay options dialog box"
+msgstr "Öffnet das Dialogfeld „Verzögerungsoptionen für Hilfedateien“"
+
+#: main.cpp:2067 main.cpp:2466 main.cpp:3461 main.cpp:3479 main.cpp:3495
+msgid "File"
+msgstr "Datei"
+
+#: main.cpp:2068 main.cpp:3548 main.cpp:3565 main.cpp:3581 main.cpp:3606
+#: main.cpp:3625 main.cpp:3649 main.cpp:3658 main.cpp:3667 main.cpp:3676
+#: main.cpp:3685 main.cpp:3694 main.cpp:3703 main.cpp:3712 main.cpp:3723
+#: main.cpp:3734 main.cpp:3745 main.cpp:3756
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: main.cpp:2069 main.cpp:3986 main.cpp:4000
+msgid "Games"
+msgstr "Spiele"
+
+#: main.cpp:2070 main.cpp:3282 main.cpp:3803 main.cpp:3819 main.cpp:3836
+#: main.cpp:3853 main.cpp:3869 main.cpp:3926
+msgid "Commands"
+msgstr "Befehle"
+
+#: main.cpp:2071 main.cpp:4443
+msgid "Options"
+msgstr "Optionen"
+
+#: main.cpp:2072
+msgid "Engine"
+msgstr "Motor"
+
+#: main.cpp:2074
+msgid "Openings"
+msgstr "Öffnungszeiten"
+
+#: main.cpp:2075
+msgid "3d graphics"
+msgstr "3D-Grafiken"
+
+#: main.cpp:2076
+msgid "Video"
+msgstr "Video"
+
+#: main.cpp:2300
+msgid "New file"
+msgstr "Neue Datei"
+
+#: main.cpp:2301
+msgid "New game"
+msgstr "Neues Spiel"
+
+#: main.cpp:2302 main.cpp:3363
+msgid "Open"
+msgstr "Offen"
+
+#: main.cpp:2303 main.cpp:3421 main.cpp:3634
+msgid "Save"
+msgstr "Speichern"
+
+#: main.cpp:2316 main.cpp:3524
+msgid "Copy"
+msgstr "Kopie"
+
+#: main.cpp:2317
+msgid "Cut"
+msgstr "Schneiden"
+
+#: main.cpp:2318
+msgid "Paste"
+msgstr "Paste"
+
+#: main.cpp:2319
+msgid "Undo"
+msgstr "Rückgängig machen"
+
+#: main.cpp:2320
+msgid "Redo"
+msgstr "Wiederholen"
+
+#: main.cpp:2325
+msgid "Flip board"
+msgstr "Flipboard"
+
+#: main.cpp:2327
+msgid "Kibitzer start/stop"
+msgstr "Kibitzer Start/Stopp"
+
+#: main.cpp:2332
+msgid "Backward (main line)"
+msgstr "Rückwärts (Hauptlinie)"
+
+#: main.cpp:2333
+msgid "Forward (main line)"
+msgstr "Vorwärts (Hauptlinie)"
+
+#: main.cpp:2334
+msgid "Backward"
+msgstr "Rückwärts"
+
+#: main.cpp:2335
+msgid "Forward"
+msgstr "Nach vorne"
+
+#: main.cpp:2340
+msgid "Start of game"
+msgstr "Spielbeginn"
+
+#: main.cpp:2341
+msgid "End of game"
+msgstr "Spielende"
+
+#: main.cpp:2347
+msgid "Display current games list"
+msgstr "Aktuelle Spieleliste anzeigen"
+
+#: main.cpp:2354
+msgid "Load a puzzle at random"
+msgstr "Ein Puzzle nach dem Zufallsprinzip laden"
+
+#: main.cpp:2355
+msgid "Toggle puzzle mode"
+msgstr "Puzzle-Modus umschalten"
+
+#: main.cpp:2356
+msgid "Reset current puzzle"
+msgstr "Aktuelles Puzzle zurücksetzen"
+
+#: main.cpp:2357
+msgid "Display hint for puzzle"
+msgstr "Hinweis zum Puzzle anzeigen"
+
+#: main.cpp:2358
+msgid "Start clock"
+msgstr "Uhr starten"
+
+#: main.cpp:2359
+msgid "Stop clock"
+msgstr "Uhr stoppen"
+
+#: main.cpp:2360
+msgid "Reset clock"
+msgstr "Uhr zurücksetzen"
+
+#: main.cpp:2367
+msgid "Pause engine"
+msgstr "Motor anhalten"
+
+#: main.cpp:2368
+msgid "Kibitz options"
+msgstr "Kibitz-Optionen"
+
+#: main.cpp:2369
+msgid "Adjudicate game"
+msgstr "Spiel entscheiden"
+
+#: main.cpp:2370
+msgid "Stop engine match"
+msgstr "Engine-Match stoppen"
+
+#: main.cpp:2371
+msgid "Display tournament schedule"
+msgstr "Turnierplan anzeigen"
+
+#: main.cpp:2372
+msgid "Display tournament cross table"
+msgstr "Turnier-Kreuztabelle anzeigen"
+
+#: main.cpp:2377
+msgid "Skip analysis for this game"
+msgstr "Analyse für dieses Spiel überspringen"
+
+#: main.cpp:2378
+msgid "Stop auto game analysis"
+msgstr "Stoppen Sie die automatische Spielanalyse"
+
+#: main.cpp:2383
+msgid "Toggle evaluation bar display"
+msgstr "Anzeige der Bewertungsleiste ein-/ausblenden"
+
+#: main.cpp:2388
+msgid "Switch to 3d graphics"
+msgstr "Wechseln Sie zu 3D-Grafiken"
+
+#: main.cpp:2393
+msgid "Open Fics network window"
+msgstr "Öffnen Sie das Fics-Netzwerkfenster"
+
+#: main.cpp:2395
+msgid "Open Media Player window"
+msgstr "Öffnen Sie das Media Player-Fenster"
+
+#: main.cpp:2484
+msgid "This is the Tarrasch Chess GUI V3 "
+msgstr "Dies ist die Tarrasch Chess GUI V3"
+
+#: main.cpp:2486
+msgid "Tarrasch is an easy to use yet powerful system for playing "
+msgstr "Tarrasch ist ein einfach zu bedienendes und dennoch leistungsstarkes System zum Spielen"
+
+#: main.cpp:2488
+msgid "and analysing with UCI standard chess engines. "
+msgstr "und Analyse mit UCI-Standard-Schach-Engines."
+
+#: main.cpp:2490
+msgid "With V3 Tarrasch now adds fast and powerful database features. "
+msgstr "Mit V3 fügt Tarrasch jetzt schnelle und leistungsstarke Datenbankfunktionen hinzu."
+
+#: main.cpp:2493
+msgid "Tarrasch includes the state of the art Stockfish engine, "
+msgstr "Tarrasch beinhaltet die hochmoderne Stockfish-Engine,"
+
+#: main.cpp:2495
+msgid "some other strong engines and the weak Tarrasch toy engine. "
+msgstr "einige andere starke Lokomotiven und die schwache Tarrasch-Spielzeuglokomotive."
+
+#: main.cpp:2497
+msgid "The toy engine is particularly suited to Tarrasch's blindfold, "
+msgstr "Die Spielzeuglokomotive passt besonders gut zu Tarraschs Augenbinde,"
+
+#: main.cpp:2499
+msgid "partial blindfold, and N move lag training modes. "
+msgstr "teilweise Augenbinde und N-Move-Lag-Trainingsmodi."
+
+#: main.cpp:2502
+msgid "Visit the publisher's website www.triplehappy.com "
+msgstr "Besuchen Sie die Website des Herausgebers www.triplehappy.com"
+
+#: main.cpp:2504
+msgid "for Tarrasch Chess GUI news and updates. "
+msgstr "für Neuigkeiten und Updates zur Tarrasch Chess GUI."
+
+#: main.cpp:2507
+msgid ""
+"This version of the program, Nimzo_3d, was written by Roy Sawyer.          "
+msgstr ""
+
+#: main.cpp:2509
+msgid ""
+"It is a fork of the original Tarrasch Chess GUI written by Mr Bill "
+"Forster.       "
+msgstr "Es handelt sich um einen Fork der ursprünglichen Tarrasch Chess GUI, die von Bill 
+Forster geschrieben wurde."
+
+#: main.cpp:2511
+msgid "For this version, thanks to :- "
+msgstr "Für diese Version danken wir: -"
+
+#: main.cpp:2513
+msgid "   Arroway Textures for permission to use their free sample bitmaps. "
+msgstr "Arroway Textures für die Erlaubnis, ihre kostenlosen Beispiel-Bitmaps zu verwenden."
+
+#: main.cpp:2515
+msgid "   Mr Sedat Canbaz for his Balsa PGN opening books. "
+msgstr "Herr Sedat Canbaz für seine Balsa PGN-Eröffnungsbücher."
+
+#: main.cpp:2517
+msgid "   Mr Graham O'Neill for his OpenBook conversion utility program. "
+msgstr "Herr Graham O'Neill für sein OpenBook-Konvertierungsprogramm."
+
+#: main.cpp:2519
+msgid "   Mr Uwe Auerswald for the PGN puzzle file. "
+msgstr "Herrn Uwe Auerswald für die PGN-Puzzledatei."
+
+#: main.cpp:2522
+msgid "Here is the explanation for the name of the program, "
+msgstr "Hier ist die Erklärung für den Namen des Programms,"
+
+#: main.cpp:2524
+msgid "which many users may find rather curious. "
+msgstr "was viele Benutzer ziemlich merkwürdig finden könnten."
+
+#: main.cpp:2526
+msgid "It is a great irony that the idea for this project first occurred "
+msgstr "Es ist eine große Ironie, dass die Idee zu diesem Projekt erstmals entstand"
+
+#: main.cpp:2528
+msgid "to me when I was studying 'My System' by Aron Nimzowitsch. "
+msgstr "für mich, als ich „Mein System“ von Aaron Nimzowitsch studierte."
+
+#: main.cpp:2530
+msgid "Also, it was the preference of Mr Forster that my version "
+msgstr "Außerdem war es die Präferenz von Herrn Forster, dass meine Version"
+
+#: main.cpp:2532
+msgid "should be called something different to his original program. "
+msgstr "sollte anders heißen als sein ursprüngliches Programm."
+
+#: main.cpp:2534
+msgid "I was quite happy to go along with his wishes. "
+msgstr "Ich bin seinem Wunsch gern nachgekommen."
+
+#: main.cpp:2537
+msgid "Nimzo_3d is the latest release of the program, "
+msgstr "Nimzo_3d ist die neueste Version des Programms,"
+
+#: main.cpp:2539
+msgid "with 3d graphics powered by DirectX "
+msgstr "mit 3D-Grafiken auf Basis von DirectX"
+
+#: main.cpp:2545
+msgid "About the Tarrasch Chess GUI "
+msgstr "Über die Tarrasch Chess GUI"
+
+#: main.cpp:2547
+msgid "&Features added"
+msgstr "&Funktionen hinzugefügt"
+
+#: main.cpp:2558
+msgid "Major features added :- "
+msgstr "Wichtige hinzugefügte Funktionen: -"
+
+#: main.cpp:2561
+msgid "    Shootout mode  "
+msgstr "Shootout-Modus"
+
+#: main.cpp:2563
+msgid "    User board bitamps  "
+msgstr "Benutzerboard-Bitamps"
+
+#: main.cpp:2565
+msgid "    Puzzle mode  "
+msgstr "Puzzle-Modus"
+
+#: main.cpp:2567
+msgid "    Printing functions  "
+msgstr "Druckfunktionen"
+
+#: main.cpp:2569
+msgid "    Engine match functions  "
+msgstr "Engine-Match-Funktionen"
+
+#: main.cpp:2571
+msgid "    Engine tournament functions  "
+msgstr "Engine-Turnierfunktionen"
+
+#: main.cpp:2573
+msgid "    PGN game file search functions "
+msgstr "PGN-Spieldatei-Suchfunktionen"
+
+#: main.cpp:2575
+msgid "    Automatic analysis of games (version 2.0) "
+msgstr "Automatische Spielanalyse (Version 2.0)"
+
+#: main.cpp:2577
+msgid "    3d graphics with DirectX (Nimzo_3d - version 3.3) "
+msgstr "3D-Grafik mit DirectX (Nimzo_3d – Version 3.3)"
+
+#: main.cpp:2579
+msgid "    Sound effects (Nimzo_3d - version 3.3) "
+msgstr "Soundeffekte (Nimzo_3d – Version 3.3)"
+
+#: main.cpp:2581
+msgid "    Capability for playing on Fics, "
+msgstr "Möglichkeit zum Spielen auf Fics,"
+
+#: main.cpp:2583
+msgid "        The Free Internet Chess Server (version 3.5) "
+msgstr "Der kostenlose Internet-Schachserver (Version 3.5)"
+
+#: main.cpp:2585
+msgid "    Polyglot .bin opening book capability (version 3.6)       "
+msgstr "Polyglot .bin-Eröffnungsbuchfunktion (Version 3.6)"
+
+#: main.cpp:2587
+msgid "    A media player for playing and making chess videos (version 4.0)   "
+msgstr "Ein Mediaplayer zum Abspielen und Erstellen von Schachvideos (Version 4.0)"
+
+#: main.cpp:2589
+msgid "    An evaluation profile window (version 4.0) "
+msgstr "Ein Bewertungsprofilfenster (Version 4.0)"
+
+#: main.cpp:2591
+msgid "    Automatic creation of Polyglot .bin opening books (version 4.0) "
+msgstr "Automatische Erstellung von Polyglot .bin-Eröffnungsbüchern (Version 4.0)"
+
+#: main.cpp:2593
+msgid ""
+"    A comprehensive compiled help file, Nimzo_3d.chm (version "
+"4.0)                                                    "
+msgstr "Eine umfassende kompilierte Hilfedatei, Nimzo_3d.chm (Version 
+4.0)"
+
+#: main.cpp:2596
+msgid "Minor features added :- "
+msgstr "Kleinere hinzugefügte Funktionen: -"
+
+#: main.cpp:2599
+msgid "    Edit functions on the right-click pop up variation menu "
+msgstr "Funktionen im Rechtsklick-Popup-Variantenmenü bearbeiten"
+
+#: main.cpp:2601
+msgid "    Right mouse click for opposite colour piece placement "
+msgstr "Klicken Sie mit der rechten Maustaste, um die Spielsteine mit der entgegengesetzten Farbe zu platzieren"
+
+#: main.cpp:2603
+msgid "        when setting up a position "
+msgstr "beim Einrichten einer Position"
+
+#: main.cpp:2605
+msgid "    Clear recent files option "
+msgstr "Option „Zuletzt verwendete Dateien löschen“"
+
+#: main.cpp:2607
+msgid "    Game numbers displayed in the game list "
+msgstr "In der Spieleliste angezeigte Spielnummern"
+
+#: main.cpp:2609
+msgid "    Goto game number button for the game list "
+msgstr "Schaltfläche „Gehe zu Spielnummer“ für die Spieleliste"
+
+#: main.cpp:2611
+msgid "    Bookmark game functions for PGN files in the game list "
+msgstr "Lesezeichen-Spielfunktionen für PGN-Dateien in der Spieleliste"
+
+#: main.cpp:2613
+msgid "    Goto start/end of game toolbar shortcuts "
+msgstr "Verknüpfungen in der Symbolleiste zum Start/Ende des Spiels"
+
+#: main.cpp:2615
+msgid "    Display game list toolbar shortcut "
+msgstr "Verknüpfung zur Symbolleiste „Spieleliste anzeigen“"
+
+#: main.cpp:2617
+msgid "    Pause engine toolbar option "
+msgstr "Symbolleistenoption „Engine anhalten“"
+
+#: main.cpp:2619
+msgid "    Select kibitz type toolbar option "
+msgstr "Symbolleistenoption „Kibitz-Typ auswählen“"
+
+#: main.cpp:2621
+msgid "    Buttons to change the number of kibitz lines "
+msgstr "Schaltflächen zum Ändern der Anzahl der Kibitzlinien"
+
+#: main.cpp:2623
+msgid "    Adjust toolbar height option "
+msgstr "Option zum Anpassen der Symbolleistenhöhe"
+
+#: main.cpp:2625
+msgid "    Lightning chess time control option "
+msgstr "Option zur Zeitkontrolle beim Blitzschach"
+
+#: main.cpp:2627
+msgid "    Change screen panel backgrounds "
+msgstr "Bildschirmhintergrund ändern"
+
+#: main.cpp:2629
+msgid "    Save and load engine parameters "
+msgstr "Motorparameter speichern und laden"
+
+#: main.cpp:2631
+msgid "    Improved select engine dialog box (version 3.0) "
+msgstr "Verbessertes Dialogfeld zur Engine-Auswahl (Version 3.0)"
+
+#: main.cpp:2633
+msgid "    Load last file / game on program start (version 3.0) "
+msgstr "Letzte Datei/letztes Spiel beim Programmstart laden (Version 3.0)"
+
+#: main.cpp:2635
+msgid "    Search info display (version 3.0) "
+msgstr "Suchinfo-Anzeige (Version 3.0)"
+
+#: main.cpp:2637
+msgid "    Game evaluation bar (version 3.0) "
+msgstr "Spielbewertungsleiste (Version 3.0)"
+
+#: main.cpp:2639
+msgid "    Game tabs and opening book move display "
+msgstr "Spiel-Tabs und Eröffnungsbuch-Zuganzeige"
+
+#: main.cpp:2641
+msgid "        on the 3d toolbar (Nimzo 3d - version 3.42) "
+msgstr "in der 3D-Symbolleiste (Nimzo 3D – Version 3.42)"
+
+#: main.cpp:2643
+msgid "    Score counter for chess quiz games in PDF files "
+msgstr "Punktezähler für Schachquizspiele in PDF-Dateien"
+
+#: main.cpp:2645
+msgid "        that award points. (version 4.0) "
+msgstr "die Punkte vergeben. (Version 4.0)"
+
+#: main.cpp:2647
+msgid "    Coloured square highlights and arrows (version 4.0) "
+msgstr "Farbige quadratische Hervorhebungen und Pfeile (Version 4.0)"
+
+#: main.cpp:2649
+msgid "    Automatic game replay function (version 4.0) "
+msgstr "Automatische Spielwiederholungsfunktion (Version 4.0)"
+
+#: main.cpp:2652
+msgid "Features added to Nimzo_3d - version 4.0"
+msgstr "Zu Nimzo_3d hinzugefügte Funktionen – Version 4.0"
+
+#: main.cpp:2676
+msgid "Helpfiledelay"
+msgstr "Hilfedateiverzögerung"
+
+#: main.cpp:2716
+msgid "There is no help avaiable for this option"
+msgstr "Für diese Option ist keine Hilfe verfügbar"
+
+#: main.cpp:2716
+msgid "Help file message"
+msgstr "Hilfedatei-Meldung"
+
+#: main.cpp:2840
+msgid "The usual reason why the help file is not displayed properly "
+msgstr "Der übliche Grund, warum die Hilfedatei nicht richtig angezeigt wird"
+
+#: main.cpp:2842
+msgid "is that it is not present in the proper directory."
+msgstr "ist, dass es nicht im richtigen Verzeichnis vorhanden ist."
+
+#: main.cpp:2844
+msgid "So with Windows Explorer, you can check that the file Nimzo_3d.chm "
+msgstr "Mit dem Windows Explorer können Sie überprüfen, ob die Datei Nimzo_3d.chm"
+
+#: main.cpp:2846
+msgid "is present in the directory C:\Program files\Tarrasch "
+msgstr "befindet sich im Verzeichnis C:\Programme\Tarrasch"
+
+#: main.cpp:2848
+msgid "If the file is there, another possible reason is that the program "
+msgstr "Wenn die Datei vorhanden ist, kann ein weiterer möglicher Grund sein, dass das Programm"
+
+#: main.cpp:2850
+msgid "that runs the help file < hh.exe > is not present on your computer. "
+msgstr ", das die Hilfedatei < hh.exe > ausführt, ist auf Ihrem Computer nicht vorhanden."
+
+#: main.cpp:2852
+msgid "So in the same directory should be a folder called < hh > "
+msgstr "Im selben Verzeichnis sollte sich also ein Ordner mit dem Namen < hh > befinden."
+
+#: main.cpp:2854
+msgid ""
+"If you have a 64-bit computer, copy the < hh.exe file > from this "
+"directory      "
+msgstr "Wenn Sie einen 64-Bit-Computer haben, kopieren Sie die <hh.exe-Datei> aus diesem
+Verzeichnis"
+
+#: main.cpp:2856
+msgid "up one branch, into the directory given earlier. "
+msgstr "einen Zweig hoch, in das zuvor angegebene Verzeichnis."
+
+#: main.cpp:2858
+msgid "With a 32-bit computer, copy < hh32.exe > as above and then rename "
+msgstr "Bei einem 32-Bit-Rechner kopieren Sie < hh32.exe > wie oben beschrieben und benennen Sie"
+
+#: main.cpp:2860
+msgid "the file < hh.exe >  This may fix the problem. "
+msgstr "die Datei <hh.exe>. Dadurch kann das Problem behoben werden."
+
+#: main.cpp:2863
+msgid "Help file error message"
+msgstr "Fehlermeldung in der Hilfedatei"
+
+#: main.cpp:2982
+msgid "Tarrasch is firstly an electronic chessboard. You can start "
+msgstr "Tarrasch ist zunächst einmal ein elektronisches Schachbrett. Sie können beginnen"
+
+#: main.cpp:2984
+msgid "from the standard starting position or set up any (legal) "
+msgstr "von der Standard-Ausgangsposition oder stellen Sie eine beliebige (legale)"
+
+#: main.cpp:2986
+msgid "position easily. You can move the pieces around freely. A "
+msgstr "Positionieren Sie einfach. Sie können die Teile frei bewegen."
+
+#: main.cpp:2988
+msgid "built in chess clock can be turned on, useful if you want to "
+msgstr "eingebaute Schachuhr kann eingeschaltet werden, nützlich, wenn Sie wollen"
+
+#: main.cpp:2990
+msgid "play an old fashioned normal game of chess with a friend."
+msgstr "Spielen Sie mit einem Freund eine altmodische, normale Partie Schach."
+
+#: main.cpp:2993
+msgid "Tarrasch has an opening book, you can easily see the \"book\" "
+msgstr "Tarrasch hat ein Eröffnungsbuch, Sie können leicht das \Buch\ sehen"
+
+#: main.cpp:2995
+#, c-format
+msgid "moves early in a game. Tarrasch uses the %s green when "
+msgstr "bewegt sich früh im Spiel. Tarrasch verwendet das %s Grün, wenn"
+
+#: main.cpp:2997
+msgid "listing or suggesting book moves. The book can be turned off "
+msgstr "Auflistung oder Vorschlag von Buchbewegungen. Das Buch kann ausgeschaltet werden"
+
+#: main.cpp:2999
+msgid "using menu \"Options\". That menu allows control over all "
+msgstr "über das Menü \Optionen\. Dieses Menü ermöglicht die Steuerung aller"
+
+#: main.cpp:3001
+msgid "optional features, including blindfold and delayed display "
+msgstr "optionale Funktionen, einschließlich Augenbinde und verzögerter Anzeige"
+
+#: main.cpp:3003
+msgid "training modes."
+msgstr "Trainingsmodi."
+
+#: main.cpp:3008
+msgid "Your moves are recorded in a moves window as a main line "
+msgstr "Ihre Züge werden in einem Zugfenster als Hauptzug aufgezeichnet."
+
+#: main.cpp:3010
+msgid "plus variations. It is easy to promote or demote variations. "
+msgstr "plus Variationen. Variationen können einfach hoch- oder herabgestuft werden."
+
+#: main.cpp:3012
+msgid "You can freely type (and edit) comments to go with your moves. "
+msgstr "Sie können Kommentare zu Ihren Zügen frei eingeben (und bearbeiten)."
+
+#: main.cpp:3014
+msgid "Just click in the moves window and start typing."
+msgstr "Klicken Sie einfach in das Fenster „Züge“ und beginnen Sie mit der Eingabe."
+
+#: main.cpp:3016
+msgid "Comments can be converted to moves and vice-versa. "
+msgstr "Kommentare können in Züge umgewandelt werden und umgekehrt."
+
+#: main.cpp:3021
+msgid "At any time you can save your work in a new or existing .pgn file "
+msgstr "Sie können Ihre Arbeit jederzeit in einer neuen oder vorhandenen PNG-Datei speichern"
+
+#: main.cpp:3023
+msgid "(a standard chess file format). You can load games from "
+msgstr "(ein Standard-Schachdateiformat). Sie können Spiele laden von"
+
+#: main.cpp:3025
+msgid "any .pgn file. Open a .pgn file in the \"File\" menu and "
+msgstr "jede beliebige .pgn-Datei. Öffnen Sie eine .pgn-Datei im Menü \Datei\ und"
+
+#: main.cpp:3027
+msgid "select a game, later on the \"Games\" menu allows you to pick "
+msgstr "Wählen Sie ein Spiel aus. Später können Sie im Menü \Spiele\ auswählen"
+
+#: main.cpp:3029
+msgid "another game from the file."
+msgstr "ein anderes Spiel aus der Datei."
+
+#: main.cpp:3032
+msgid "You can use a UCI chess engine  "
+msgstr "Sie können eine UCI-Schach-Engine verwenden"
+
+#: main.cpp:3034
+msgid "(UCI is another chesscomputing standard) "
+msgstr "(UCI ist ein weiterer Schachcomputerstandard)"
+
+#: main.cpp:3036
+msgid "either as an opponent, or to provideexpert commentary."
+msgstr "entweder als Gegner oder um fachkundige Kommentare abzugeben."
+
+#: main.cpp:3041
+msgid "The Tarrasch package includes one or more engines and one of "
+msgstr "Das Tarrasch-Paket beinhaltet einen oder mehrere Motoren und einen der"
+
+#: main.cpp:3043
+msgid "these engines is used by default. "
+msgstr "Diese Engines werden standardmäßig verwendet."
+
+#: main.cpp:3045
+msgid "Other engines can be separately purchased or downloaded.  "
+msgstr "Andere Engines können separat erworben oder heruntergeladen werden."
+
+#: main.cpp:3047
+msgid "Use menu \"Options\" to select an alternative engine if you have one. "
+msgstr "Wählen Sie über das Menü \Optionen\ eine alternative Engine aus, sofern Sie eine haben."
+
+#: main.cpp:3049
+msgid "You can start a game with the engine at any time, in any "
+msgstr "Sie können jederzeit ein Spiel mit der Engine starten, in jedem"
+
+#: main.cpp:3051
+msgid "position, as either white or black. By default you will get "
+msgstr "Position, entweder als weiß oder schwarz. Standardmäßig erhalten Sie"
+
+#: main.cpp:3053
+msgid "a time handicap. You can change the clock settings by "
+msgstr "ein Zeithandicap. Sie können die Uhreinstellungen ändern, indem Sie"
+
+#: main.cpp:3055
+msgid "clicking on the clock, or using menu \"Options\". You can "
+msgstr "Klicken Sie auf die Uhr oder verwenden Sie das Menü \Optionen\. Sie können"
+
+#: main.cpp:3057
+msgid "change player names by clicking on them or by using menu \"Options\""
+msgstr "Ändern Sie die Spielernamen, indem Sie darauf klicken oder das Menü \Optionen\ verwenden."
+
+#: main.cpp:3061
+msgid "To turn on commentary (kibitzing in chess parlance), "
+msgstr "Um den Kommentar einzuschalten (im Schachjargon „Kiebitzen“),"
+
+#: main.cpp:3063
+msgid "use the \"Commands\" menu or the Robot button or select the "
+msgstr "Verwenden Sie das Menü \Befehle\ oder die Schaltfläche Roboter oder wählen Sie die"
+
+#: main.cpp:3065
+msgid "Engine Analysis tab at the bottom. You can even "
+msgstr "Registerkarte „Engine Analysis“ unten. Sie können sogar"
+
+#: main.cpp:3067
+msgid "get the chess engine to provide commentary when you are "
+msgstr "Lassen Sie die Schach-Engine Kommentare abgeben, wenn Sie"
+
+#: main.cpp:3069
+msgid "playing against it."
+msgstr "dagegen spielen."
+
+#: main.cpp:3074
+msgid "Tarrasch now includes database facilities for easily finding "
+msgstr "Tarrasch enthält jetzt Datenbankfunktionen zum einfachen Auffinden"
+
+#: main.cpp:3076
+msgid ""
+"games and move frequency statistics for openings you are interested in. "
+msgstr ""
+
+#: main.cpp:3078
+msgid "You can search for positions, patterns and material balances "
+msgstr "Sie können nach Positionen, Mustern und Materialbilanzen suchen"
+
+#: main.cpp:3080
+msgid "and conveniently play through the games found."
+msgstr "und bequem die gefundenen Spiele durchspielen."
+
+#: main.cpp:3085
+msgid ""
+"This version of the program, Nimzo_3d, which has 3d graphics with DirectX "
+msgstr ""
+
+#: main.cpp:3087
+msgid "was written by Roy Sawyer. "
+msgstr "wurde von Roy Sawyer geschrieben."
+
+#: main.cpp:3089
+msgid ""
+"It is a fork of the original Tarrasch Chess GUI written by Mr Bill Forster. "
+msgstr ""
+
+#: main.cpp:3094
+msgid "Tarrasch Chess GUI Help"
+msgstr "Tarrasch Chess GUI Hilfe"
+
+#: main.cpp:3109
+msgid "Program design and implementation: Bill Forster. "
+msgstr "Programmgestaltung und -implementierung: Bill Forster."
+
+#: main.cpp:3111
+msgid ""
+"This version was written by Roy Sawyer and is a fork of the original "
+"program. "
+msgstr "Diese Version wurde von Roy Sawyer geschrieben und ist ein Fork des Originalprogramms."
+
+#: main.cpp:3114
+msgid "Foundation supporter: Yves Catineau. "
+msgstr "Unterstützer der Stiftung: Yves Catineau. "
+
+#: main.cpp:3116
+msgid "Foundation donors: Paul Cook, Gary Baydo, Ransith Fernando, "
+msgstr "Spender der Stiftung: Paul Cook, Gary Baydo, Ransith Fernando,"
+
+#: main.cpp:3118
+msgid "Lukasz Berezowski, Eric Ziegler, Laurence Dayton, Albrecht Schmidt, "
+msgstr "Lukasz Berezowski, Eric Ziegler, Laurence Dayton, Albrecht Schmidt,"
+
+#: main.cpp:3120
+msgid "Lloyd Standish and David Beagan."
+msgstr "Lloyd Standish und David Beagan."
+
+#: main.cpp:3124
+msgid "Testers: Iliya Kristoff, Claude Tamplenizza, Ian Sellen. "
+msgstr "Tester: Iliya Kristoff, Claude Tamplenizza, Ian Sellen. "
+
+#: main.cpp:3127
+msgid ""
+"Thanks to David L Brown and the Good Companions for the chess graphics. "
+msgstr ""
+
+#: main.cpp:3130
+msgid ""
+"Thanks to Yusuke Kamiyamane (Fugue icons) for some of the toolbar icons. "
+msgstr ""
+
+#: main.cpp:3133
+msgid ""
+"Special thanks to Mark Crowther for permission to use TWIC to build tarrasch-"
+"base, "
+msgstr "Besonderer Dank geht an Mark Crowther für die Erlaubnis, TWIC zum Bau von tarrasch-base zu verwenden."
+
+#: main.cpp:3135
+msgid ""
+"the default database, TWIC underlies all modern chess database curation, "
+msgstr ""
+
+#: main.cpp:3137
+msgid "the chess community owes Mark a massive debt. "
+msgstr "die Schachgemeinschaft hat Mark enorm viel zu verdanken."
+
+#: main.cpp:3140
+msgid "Thanks to Ed Schroeder for Millionbase."
+msgstr "Danke an Ed Schroeder für Millionbase."
+
+#: main.cpp:3143
+msgid "Thanks to the engine authors who provided explicit permission to "
+msgstr "Vielen Dank an die Autoren der Engine, die ausdrücklich die Erlaubnis erteilt haben,"
+
+#: main.cpp:3145
+msgid "include their engines. In chronological order, Vasik Rajlich (Rybka), "
+msgstr "gehören ihre Motoren. In chronologischer Reihenfolge, Vasik Rajlich (Rybka),"
+
+#: main.cpp:3147
+msgid ""
+"the late Don Dailey and Larry Kaufman (Komodo), and Robert Houdart "
+"(Houdini). "
+msgstr "die verstorbenen Don Dailey und Larry Kaufman (Komodo) sowie Robert Houdart 
+(Houdini)."
+
+#: main.cpp:3149
+msgid "Thanks to the Stockfish team, Stockfish is now the default engine. "
+msgstr "Dank des Stockfish-Teams ist Stockfish jetzt die Standard-Engine."
+
+#: main.cpp:3151
+msgid "Permission to include Stockfish is inherent in its licence, as long "
+msgstr "Die Erlaubnis zur Einbindung von Stockfish ist in der Lizenz enthalten, solange"
+
+#: main.cpp:3153
+msgid "as the location of the Stockfish source code is provided. "
+msgstr "da der Speicherort des Stockfish-Quellcodes angegeben wird."
+
+#: main.cpp:3155
+msgid "The location is https://stockfishchess.org. "
+msgstr "Der Standort ist https://stockfishchess.org."
+
+#: main.cpp:3157
+msgid "Thanks to Inno Setup from Jordan Russell (jrsoftware.org), "
+msgstr "Dank an Inno Setup von Jordan Russell (jrsoftware.org),"
+
+#: main.cpp:3159
+msgid "for the setup program. "
+msgstr "für das Setup-Programm."
+
+#: main.cpp:3161
+msgid "Thanks to Julian Smart, Vadim Zeitlin and the wxWidgets community "
+msgstr "Danke an Julian Smart, Vadim Zeitlin und die wxWidgets-Community"
+
+#: main.cpp:3163
+msgid "for the GUI library. "
+msgstr "für die GUI-Bibliothek."
+
+#: main.cpp:3165
+msgid ""
+"Thanks to Garry Peek and the Radium team - Norman Bartholomew, John Cocks, "
+"Jaron Peek, "
+msgstr "Dank an Garry Peek und das Radium-Team - Norman Bartholomew, John Cocks, 
+Jaron Peek,"
+
+#: main.cpp:3167
+msgid ""
+"Tim McEwan, Brian Peach, Dr Garry Brown, Corwin Newall, Kate Hyndman and "
+"James Herbison. "
+msgstr "Tim McEwan, Brian Peach, Dr. Garry Brown, Corwin Newall, Kate Hyndman und 
+James Herbison."
+
+#: main.cpp:3169
+msgid ""
+"for providing office space and good company through much of the V3 "
+"development grind. "
+msgstr "für die Bereitstellung von Büroräumen und guter Gesellschaft während eines Großteils der V3-Entwicklungsarbeit."
+
+#: main.cpp:3172
+msgid ""
+"Thanks to my dear wife Maria Champion-Forster, for not only tolerating me "
+msgstr ""
+
+#: main.cpp:3174
+msgid ""
+"spending (wasting?) thousands of hours on this project, but actually "
+"encouraging it. "
+msgstr "Tausende von Stunden mit diesem Projekt zu verbringen (verschwenden?), es aber tatsächlich
+zu fördern."
+
+#: main.cpp:3176
+msgid "Dedicated to the memory of John Victor Forster 1949-2001. "
+msgstr "Dem Andenken an John Victor Forster 1949-2001 gewidmet."
+
+#: main.cpp:3178
+msgid "We miss him every day."
+msgstr "Wir vermissen ihn jeden Tag."
+
+#: main.cpp:3339 main.cpp:3354
+msgid "New"
+msgstr "Neu"
+
+#: main.cpp:3405
+msgid "Openlogfile"
+msgstr "Openlogfile"
+
+#: main.cpp:3430
+msgid "Saveas"
+msgstr "Speichern als"
+
+#: main.cpp:3439
+msgid "Savegameas"
+msgstr "Spielstände"
+
+#: main.cpp:3774
+msgid "Engineanalysis"
+msgstr "Motoranalyse"
+
+#: main.cpp:3947 main.cpp:4016
+msgid "Currentfile"
+msgstr "Aktuelle Datei"
+
+#: main.cpp:4253
+msgid "General"
+msgstr "Allgemein"
+
+#: main.cpp:4349
+msgid "Playernames"
+msgstr "Spielernamen"
+
+#: main.cpp:4365
+msgid "Clocks"
+msgstr "Uhren"
+
+#: main.cpp:4381
+msgid "Logfilepath"
+msgstr "Logdateipfad"
+
+#: main.cpp:4406
+msgid "Training"
+msgstr "Ausbildung"
+
+#: main.cpp:4596
+msgid "Error loading book"
+msgstr "Fehler beim Laden des Buches"
+
+#: main.cpp:4671
+msgid "Enginesettings"
+msgstr "Motoreinstellungen"
+
+#: main.cpp:4785 main.cpp:4818
+msgid "Showallgames"
+msgstr "Alle Spiele anzeigen"
+
+#: main.cpp:4800
+msgid "Patternsearch"
+msgstr "Mustersuche"
+
+#: main.cpp:4809
+msgid "Materialbalancesearch"
+msgstr "Materialbilanzsuche"
+
+#: main.cpp:4827
+msgid "Showallorderedbyplayer"
+msgstr "Alle nach Spieler sortierten anzeigen"
+
+#: main.cpp:4836
+msgid "Selectcurrentdatabase"
+msgstr "Aktuelle Datenbank auswählen"
+
+#: main.cpp:4845
+msgid "Createnewdatabase"
+msgstr "NeueDatenbank erstellen"
+
+#: main.cpp:4854
+msgid "Appendtodatabase"
+msgstr "An Datenbank anhängen"
+
+#: main.cpp:4890
+msgid "Opening_book"
+msgstr "Eröffnungsbuch"
+
+#: main.cpp:4930
+msgid "Error loading .pgn opening book"
+msgstr "Fehler beim Laden der PNG-Datei beim Öffnen des Buches"
+
+#: main.cpp:4946 main.cpp:5023
+msgid "Error loading .bin opening book"
+msgstr "Fehler beim Laden der Binärdatei beim Öffnen des Buchs"
+
+#: main.cpp:4947 main.cpp:5024
+msgid "File error message"
+msgstr "Dateifehlermeldung"
+
+#: main.cpp:5191
+msgid "There are no book moves for this position"
+msgstr "Für diese Position liegen keine Buchungsbewegungen vor"
+
+#: main.cpp:5192
+msgid "Opening book message"
+msgstr "Nachricht zum Öffnen des Buches"
